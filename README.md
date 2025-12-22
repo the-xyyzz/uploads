@@ -57,6 +57,7 @@ Buat file `.env` di direktori root:
 ```env
 VITE_SUPABASE_PROJECT_ID=project-id
 VITE_SUPABASE_PUBLISHABLE_KEY=your-anon-key
+VITE_SUPABASE_URL=url
 ```
 
 > ⚠️ Pastikan **Anon Key** memiliki izin untuk mengakses Storage dan Edge Functions.

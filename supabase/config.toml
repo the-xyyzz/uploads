@@ -1,0 +1,4 @@
+project_id = "sriuoiasmodypgrstiig"
+
+[functions.api-upload]
+verify_jwt = false
